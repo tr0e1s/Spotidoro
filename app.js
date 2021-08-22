@@ -156,7 +156,7 @@ function pauseMusic(){
 
 // Spotify
 
-var redirect_uri = "http://127.0.0.1:5500/index.html";
+var redirect_uri = "https://tr0e1s.github.io/Spotidoro/";
  
 var client_id = ""; 
 var client_secret = "";

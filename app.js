@@ -3,8 +3,8 @@ let musicStatus = 'Stopped';
 // Pomodoro
 
 const timer = {
-    pomodoro: 1,
-    shortBreak: 1,
+    pomodoro: 25,
+    shortBreak: 5,
 };
   
 let interval;

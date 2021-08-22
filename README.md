@@ -4,6 +4,4 @@ This app combines a Pomodoro timer with Spotify. It plays music from a Spotify p
 
 Try it here: https://tr0e1s.github.io/Spotidoro/
 
-Beware, this is a very hacky proof-of-concept.
-
-Code borrowed from: https://freshman.tech/pomodoro-timer/ and https://github.com/makeratplay/SpotifyWebAPI
+Beware, this is a very hacky proof-of-concept, sticthed together with code borrowed from: https://freshman.tech/pomodoro-timer/ and https://github.com/makeratplay/SpotifyWebAPI
